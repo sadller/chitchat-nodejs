@@ -1,0 +1,6 @@
+{"message":"Route : /create?collection=test","level":"info","timestamp":"2020-12-07T11:15:59.047Z"}
+{"message":"Collection created : test","level":"info","timestamp":"2020-12-07T11:15:59.150Z"}
+{"message":"Route : /create?collection=test","level":"info","timestamp":"2020-12-07T11:16:22.102Z"}
+{"message":"Route : /create?collection=test","level":"info","timestamp":"2020-12-07T11:16:23.009Z"}
+{"message":"Route : /create?collection=test1","level":"info","timestamp":"2020-12-07T11:17:23.544Z"}
+{"message":"Collection created : test1","level":"info","timestamp":"2020-12-07T11:17:23.625Z"}

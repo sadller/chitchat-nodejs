@@ -1,0 +1,27 @@
+{"message":"Route : /create?collection=test1","level":"info","timestamp":"2020-12-07T12:25:29.513Z"}
+{"message":"Collection created : test1","level":"info","timestamp":"2020-12-07T12:25:31.502Z"}
+{"message":"Route : /delete?collection=test1","level":"info","timestamp":"2020-12-07T12:25:48.990Z"}
+{"message":"Collection dropped : test1","level":"info","timestamp":"2020-12-07T12:25:49.540Z"}
+{"message":"Route : /create?collection=test","level":"info","timestamp":"2020-12-07T12:32:11.752Z"}
+{"message":"Collection created : test","level":"info","timestamp":"2020-12-07T12:32:12.321Z"}
+{"message":"Route : /create?collection=demo","level":"info","timestamp":"2020-12-07T12:32:14.947Z"}
+{"message":"Collection created : demo","level":"info","timestamp":"2020-12-07T12:32:16.780Z"}
+{"message":"Route : /login?username=sadller&password=123abc","level":"info","timestamp":"2020-12-07T12:48:37.403Z"}
+{"message":"Route : /login?username=sadller","level":"info","timestamp":"2020-12-07T13:09:34.856Z"}
+{"message":"Invalid username/password","level":"error","timestamp":"2020-12-07T13:09:34.860Z"}
+{"message":"Route : /login?username=sadller&password=","level":"info","timestamp":"2020-12-07T13:09:43.573Z"}
+{"message":"Invalid username/password","level":"error","timestamp":"2020-12-07T13:09:43.573Z"}
+{"message":"Route : /login?username=sadller&password=s","level":"info","timestamp":"2020-12-07T13:09:46.951Z"}
+{"message":"Route : /login?username=sadller&password=s","level":"info","timestamp":"2020-12-07T13:11:38.430Z"}
+{"message":"Route : /login?username=sadller&password=","level":"info","timestamp":"2020-12-07T13:11:48.327Z"}
+{"message":"Invalid username/password","level":"error","timestamp":"2020-12-07T13:11:48.327Z"}
+{"message":"Route : /login?username=sadller&pa","level":"info","timestamp":"2020-12-07T13:11:53.109Z"}
+{"message":"Invalid username/password","level":"error","timestamp":"2020-12-07T13:11:53.109Z"}
+{"message":"Route : /login?username=sadller","level":"info","timestamp":"2020-12-07T13:11:55.806Z"}
+{"message":"Invalid username/password","level":"error","timestamp":"2020-12-07T13:11:55.806Z"}
+{"message":"Route : /login","level":"info","timestamp":"2020-12-14T14:01:07.865Z"}
+{"message":"Invalid username/password","level":"error","timestamp":"2020-12-14T14:01:07.867Z"}
+{"message":"Route : /signup","level":"info","timestamp":"2020-12-14T14:40:26.959Z"}
+{"message":"Route : /signup","level":"info","timestamp":"2020-12-14T15:38:11.242Z"}
+{"message":"Route : /signup","level":"info","timestamp":"2020-12-14T15:38:54.980Z"}
+{"message":"Route : /users","level":"info","timestamp":"2020-12-15T06:59:57.666Z"}
